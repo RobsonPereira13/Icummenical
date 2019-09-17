@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="Localização" />
+        <item
+            android:id="@+id/nav_listarEventos"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Listar Eventos" />
+        <item
+            android:id="@+id/nav_dizimo"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:title="Oferte  seu Dizimo" />
+        <item
+            android:id="@+id/nav_cadastrarEvento"
+            android:icon="@drawable/ic_assignment"
+            android:title="Cadastrar Evento" />
+        <item
+            android:id="@+id/nav_abrirPerfilUsuario"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Minha Conta" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
+

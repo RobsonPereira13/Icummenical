@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Icummenical</string>
+    <string name="title_activity_principal">Principal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="action_SignOut">Sair</string>
+
+    <string name="facebook_app_id">830603277276659</string>
+    <string name="fb_login_protocol_scheme">fb830603277276659</string>
+
+    <string name="alertDialog_Text">Ao Clicar em Confirmar você irá excluir todos os seus dados salvos no Icummenical, etc. Deseja REALMENTE Excluir sua conta ?</string>
+    <string name="paypal_single_payment" />
+    <string name="paypal_future_payment" />
+    <string name="paypal_future_payment_address_scope" />
+    <string name="paypal_billing_agreement" />
+    <string name="payment_icon" />
+
+    <array name="Teste">
+        <item>Paroquia São fulano</item>
+        <item>Paroquia São cicrano</item>
+        <item>Paroquia São </item>
+        <item>Paroquia São ci</item>
+    </array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

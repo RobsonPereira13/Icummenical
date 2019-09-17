@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#0698f5</color>
+    <color name="colorPrimaryDark">#2179bc</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightGrey">#ededed</color>
+
+    <color name="azur">#e7eced</color>
+    <color name="white">#ffffff</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="transparent">#00000000</color>
+    <color name="textColor">#121212</color>
+
+    <color name="alertDialog_Red">#ff3943</color>
+    <color name="alertDialog_Red_Dark">#801B20</color>
+
+</resources>
